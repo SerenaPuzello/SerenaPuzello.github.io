@@ -87,6 +87,8 @@ color: rgba(0, 0, 0, 0.5);
 	padding: 10px;
 	outline: 0;
 	border: 1px solid rgba(0, 0, 0, 0.1);
+	background: #d6d6d6;
+	width: 200px;
 }
 .add-items input[type="submit"] {
 	background-color: rgba(49, 0, 51, 0.438);
