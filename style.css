@@ -88,3 +88,7 @@ color: rgba(0, 0, 0, 0.5);
 	outline: 0;
 	border: 1px solid rgba(0, 0, 0, 0.1);
 }
+.add-items input[type="submit"] {
+	background-color: rgba(49, 0, 51, 0.438);
+	cursor: pointer;
+}
