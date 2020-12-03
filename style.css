@@ -20,10 +20,10 @@ html {
 }
 
 svg {
-	fill: #ffffff;
-	background: rgba(0, 0, 0, 0.1);
+	fill: #440072;
+	background: rgba(255, 255, 255, 10);
 	padding: 20px;
-	border-radius: 50%;
+	border-radius: 80%;
 	width: 200px;
 	margin-bottom: 50px;
 }
